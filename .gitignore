@@ -42,4 +42,4 @@ testConsumers/target/
 testConsumers/target-eclipse
 .metadata./
 testConsumers/.groovy/*
-testConsumers/out/
+/out/
