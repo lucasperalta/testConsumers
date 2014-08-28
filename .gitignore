@@ -37,3 +37,9 @@ ehthumbs.db
 Thumbs.db
 .project
 .classpath
+.idea
+testConsumers/target/
+testConsumers/target-eclipse
+.metadata./
+testConsumers/.groovy/*
+testConsumers/out/
